@@ -19,12 +19,22 @@ Input form
 
 ![11](https://github.com/user-attachments/assets/d9ed3340-c2b3-4e21-9340-037b9af6a973)
 ![2](https://github.com/user-attachments/assets/69f114fc-c576-492a-b447-b6cd7400060f)
+
+
 Seeing deta by clicking see details button
 
 ![33](https://github.com/user-attachments/assets/ebb4bd18-e409-4844-85fc-b97ed8fe2d05)
+
+
 we can see the information of the user
+
+
 ![44](https://github.com/user-attachments/assets/994b8d79-f11e-462a-bb75-57867c5a7fe4)
+
+
 It will be visible in mysql too
+
+
 ![5](https://github.com/user-attachments/assets/ef41bd12-bf9f-41ae-9e91-97857524145a)
 
 
