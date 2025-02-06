@@ -14,8 +14,9 @@
 
 8️⃣ Restart services if needed: sudo service apache2 restart && sudo service mysql restart.
 
-
 Input form
+
+
 ![11](https://github.com/user-attachments/assets/d9ed3340-c2b3-4e21-9340-037b9af6a973)
 ![2](https://github.com/user-attachments/assets/69f114fc-c576-492a-b447-b6cd7400060f)
 Seeing deta by clicking see details button
